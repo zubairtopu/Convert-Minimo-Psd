@@ -1,0 +1,368 @@
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Courgette|Playfair+Display&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Courgette','Playfair Display', serif;
+}
+/*header part start*/
+header {
+    width: 95%;
+    margin: auto;
+    margin-top: 71px;
+    overflow: hidden;
+}
+
+.logo {
+    width: 20%;
+    float: left;
+}
+
+.menu {
+    width: 70%;
+    float: right;
+}
+
+.menu ul {
+    list-style: none;
+    float: right; ;
+}
+
+.menu ul li {
+    float: left;
+}
+
+.menu ul li a {
+    color: #626262;
+    text-decoration: none;
+    margin: 87px;
+    font-size: 14pt;
+    text-transform: uppercase;
+}
+/*header part end*/
+
+/*banner part start*/
+.banner{
+    width: 95%;
+    margin: auto;
+    margin-top: 75px;
+}
+.banner img{
+    width: 100%
+
+    
+}
+.content{
+    width: 80%;
+    margin: auto;
+    margin-top: 100px
+}
+.content span{
+    display: block;
+    color: #b4ad9e;
+    font-size: 14pt;
+    margin-bottom: 30px;
+    text-transform: uppercase;
+}
+.content h1{
+    font-size: 30pt;
+    margin-bottom: 44px;
+    color: #626262;
+}
+.content p{
+    font-size: 14pt;
+    margin-bottom: 80px;
+    color: #626262;
+    line-height: 1.4;
+}
+/*banner part end*/
+
+/*lifestyle part start*/
+
+/* item_one start*/
+.life_style{
+    width: 80%;
+    margin: auto;
+    margin-top: 135px;
+    overflow: hidden;
+}
+
+.item_one{
+    float: left;
+    width: 45%;
+}
+.item_one_img img{
+    width: 100%;
+}
+.item_one span{
+    display: block;
+    color: #b4ad9e;
+    font-size: 14pt;
+    margin-top: 32px;
+    text-transform: uppercase;
+}
+.item_one h1{
+    font-size: 30pt;
+    margin-top: 30px;
+    color: #626262;
+}
+.item_one p{
+    font-size: 14pt;
+    margin-top: 44px;
+    color: #626262;
+    line-height: 1.4;
+}
+
+/* item one end*/
+
+/* item two start */
+.item_two{
+    float: right;
+    width: 45%;
+}
+.item_two_img img{
+    width: 100%;
+}
+.item_two span{
+    display: block;
+    color: #b4ad9e;
+    font-size: 14pt;
+    margin-top: 32px;
+    text-transform: uppercase;
+}
+.item_two h1{
+    font-size: 30pt;
+    margin-top: 30px;
+    color: #626262;
+}
+.item_two p{
+    font-size: 14pt;
+    margin-top: 44px;
+    color: #626262;
+    line-height: 1.4;
+}
+/* item two end */
+
+/* photodiary  start */
+.photodiary{
+    width: 80%;
+    margin: auto;
+    margin-top: 135px;
+    overflow: hidden;
+}
+/* photo_one start */
+
+.photo_one{
+    width: 45%;
+    float: left;
+}
+.photo_one_img img{
+    width: 100%;
+}
+.photo_one span{
+    display: block;
+    margin-top: 32px;
+    text-transform: uppercase;
+    font-size: 14pt;
+    color: #b4ad9e;
+}
+.photo_one h1{
+    margin-top: 30px;
+    font-size: 30pt;
+    color: #626262;
+}
+.photo_one p{
+    margin-top: 41px;
+    font-size: 14pt;
+    color: #626262;
+    line-height: 1.4;
+}
+/* photo_one end */
+
+/* photo_two start */
+.photo_two{
+    width: 45%;
+    float: right;
+}
+.photo_two_img img{
+    width: 100%;
+}
+.photo_two span{
+    display: block;
+    margin-top: 32px;
+    text-transform: uppercase;
+    font-size: 14pt;
+    color: #b4ad9e;
+}
+.photo_two h1{
+    margin-top: 30px;
+    font-size: 30pt;
+    color: #626262;
+}
+.photo_two p{
+    margin-top: 41px;
+    font-size: 14pt;
+    color: #626262;
+    line-height: 1.4;
+}
+/* photo_two end */
+/*photodiary end*/
+
+/* newsletter start */
+.newsletter{
+    height: 288px;
+    background-color: #f0f0f0;
+   margin-top: 125px;
+}
+.newsletter_content{
+    width: 40%;
+    margin: auto;
+    padding-top: 74px;
+    padding-left: 20%;
+        
+}
+.newsletter_content h1{
+    margin-bottom: 92px;
+
+    font-size: 22pt;
+     
+}
+.newsletter_content input{
+    border: none;
+    background-color: transparent;
+    border-bottom: 1px solid;
+    width: 335px;
+    font-size: 14px;
+    
+}
+.sent{
+    position: relative;
+}
+.sent img{
+    position: absolute;
+    bottom:3px;
+    left: 303px;    
+}
+/* newsletter end */
+
+/* lifestyle two start */
+.life_style_two{
+    width: 80%;
+    margin: auto;
+    margin-top: 103px;
+    overflow: hidden;
+}
+.item_five{
+    width: 45%;
+    float: left;
+}
+.item_five img{
+    width: 100%;
+}
+.item_five span{
+    display: block;
+    margin-top: 32px;
+    text-transform: uppercase;
+    font-size: 14pt;
+    color: #b4ad9e;
+}
+.item_five h1{
+    margin-top: 30px;
+    font-size: 30pt;
+    color: #626262;
+}
+.item_five p{
+    margin-top: 41px;
+    font-size: 14pt;
+    color: #626262;
+    line-height: 1.4;
+}
+.item_six{
+    width: 45%;
+    float: right;
+}
+.item_six img{
+    width: 100%;
+}
+.item_six span{
+    display: block;
+    margin-top: 32px;
+    text-transform: uppercase;
+    font-size: 14pt;
+    color: #b4ad9e;
+}
+.item_six h1{
+    margin-top: 30px;
+    font-size: 30pt;
+    color: #626262;
+}
+.item_six p{
+    margin-top: 41px;
+    font-size: 14pt;
+    color: #626262;
+    line-height: 1.4;
+}
+/* lifestyle two end */
+/* load more button start */
+.load_more{
+    width: 10%;
+    height: 300px;
+    margin: auto;
+    margin-top: 168px;
+}
+.load_more input{
+    padding: 20px;
+    background-color: transparent;
+    border: none;
+    border: 1px solid;
+    color: #626262;
+    font-size: 13pt;    
+}
+/* load more button end */
+
+/* footer part start */
+footer{
+    height: 97px;
+    background-color:  #f0f0f0;
+}
+.footer_content{
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+    padding-top: 42px;
+}
+.terms{
+    width: 30%;
+    float: left;
+}
+.terms ul{
+    list-style: none;
+}
+.terms ul li{
+    float: left;
+}
+.terms ul a{
+    margin: 10px;
+    color: #626262;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 14pt;
+}
+.social_icon{
+    width: 40%;
+    float: right;
+}
+.social_icon ul{
+ list-style: none;
+}
+.social_icon ul li{
+    float: right;
+}
+.social_icon ul li a{
+    margin: 10px;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #626262;
+    font-size: 14pt;
+}
+/* footer part end */
