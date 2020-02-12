@@ -105,6 +105,8 @@ header {
     font-size: 30pt;
     margin-top: 30px;
     color: #626262;
+}
+.item_one h1 a{
     text-decoration: none;
 }
 .item_one p{
@@ -135,6 +137,8 @@ header {
     font-size: 30pt;
     margin-top: 30px;
     color: #626262;
+}
+.item_two h1 a{
     text-decoration: none;
 }
 .item_two p{
@@ -172,6 +176,8 @@ header {
     margin-top: 30px;
     font-size: 30pt;
     color: #626262;
+}
+.photo_one h1 a{
     text-decoration: none;
 }
 .photo_one p{
@@ -201,6 +207,8 @@ header {
     margin-top: 30px;
     font-size: 30pt;
     color: #626262;
+}
+.photo_two h1 a{
     text-decoration: none;
 }
 .photo_two p{
@@ -274,6 +282,8 @@ header {
     margin-top: 30px;
     font-size: 30pt;
     color: #626262;
+}
+.item_five h1 a{
     text-decoration: none;
 }
 .item_five p{
@@ -300,6 +310,8 @@ header {
     margin-top: 30px;
     font-size: 30pt;
     color: #626262;
+}
+.item_six h1 a{
     text-decoration: none;
 }
 .item_six p{
