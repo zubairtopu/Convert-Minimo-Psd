@@ -108,6 +108,7 @@ header {
 }
 .item_one h1 a{
     text-decoration: none;
+    color: #626262;
 }
 .item_one p{
     font-size: 14pt;
@@ -140,6 +141,7 @@ header {
 }
 .item_two h1 a{
     text-decoration: none;
+    color: #626262;
 }
 .item_two p{
     font-size: 14pt;
@@ -175,10 +177,10 @@ header {
 .photo_one h1{
     margin-top: 30px;
     font-size: 30pt;
-    color: #626262;
 }
 .photo_one h1 a{
     text-decoration: none;
+    color: #626262;
 }
 .photo_one p{
     margin-top: 41px;
@@ -206,10 +208,10 @@ header {
 .photo_two h1{
     margin-top: 30px;
     font-size: 30pt;
-    color: #626262;
 }
 .photo_two h1 a{
     text-decoration: none;
+    color: #626262;
 }
 .photo_two p{
     margin-top: 41px;
@@ -281,10 +283,10 @@ header {
 .item_five h1{
     margin-top: 30px;
     font-size: 30pt;
-    color: #626262;
 }
 .item_five h1 a{
     text-decoration: none;
+    color: #626262;
 }
 .item_five p{
     margin-top: 41px;
@@ -309,10 +311,10 @@ header {
 .item_six h1{
     margin-top: 30px;
     font-size: 30pt;
-    color: #626262;
 }
 .item_six h1 a{
     text-decoration: none;
+    color: #626262;
 }
 .item_six p{
     margin-top: 41px;
